@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\bin\Debug\Order Notification System.exe.config
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\bin\Debug\Order Notification System.exe
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\bin\Debug\Order Notification System.pdb
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\obj\Debug\Order Notification System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\obj\Debug\Order Notification System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\obj\Debug\Order Notification System.exe
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\obj\Debug\Order Notification System.pdb
+C:\Users\Lenovo\OneDrive - Mansoura University - Main\Documents\Task_TeamMega\Task Event&&Delegate\Order Notification System\Order Notification System\obj\Debug\Order Notification System.exe.config

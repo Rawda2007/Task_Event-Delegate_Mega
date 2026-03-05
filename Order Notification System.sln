@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order Notification System", "Order Notification System\Order Notification System.csproj", "{22DDE0EE-BE10-40EF-BABE-36B0C71FAD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DDE0EE-BE10-40EF-BABE-36B0C71FAD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DDE0EE-BE10-40EF-BABE-36B0C71FAD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DDE0EE-BE10-40EF-BABE-36B0C71FAD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DDE0EE-BE10-40EF-BABE-36B0C71FAD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E52895-12E3-4909-8F72-4B3574A2972D}
+	EndGlobalSection
+EndGlobal
